@@ -128,7 +128,7 @@ Pick your roles and tackle the first exercise; then, switch roles and tackle the
 
 * Create a new directory called `front_end_project`.
 * Inside it, create two directories, `lib` and `style`.
-* In the 'lib' directory, create two files called `main.js` and `module-one.js`.
+* In the `lib` directory, create two files called `main.js` and `module-one.js`.
 * In the `style` directory, create two other files : `main.css` and `normalize.css`.
 * Finally, go back up to `front_end_project` and create two more files inside of it : `index.html` and `README.md`
 
